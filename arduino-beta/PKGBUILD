@@ -5,7 +5,7 @@
 pkgname=arduino-beta
 epoch=1
 pkgver=1.5.5
-pkgrel=1
+pkgrel=2
 pkgdesc="Arduino SDK Beta release"
 arch=('i686' 'x86_64')
 url="http://arduino.cc/en/Main/Software"
